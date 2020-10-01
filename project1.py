@@ -13,7 +13,7 @@ def displayNonProfits():
 
 def main(): 
     print("hello")
- 
+    print("finish step one")
   #steps: 
 	#1. welcome the user using a unique Intro Message (use a function for this)
 	#2. create a variable for each nonprofit/charity that keeps track of how much total money has been donated
